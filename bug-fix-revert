@@ -1,4 +1,5 @@
- curl curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1                 
+theia@theia-ojaskumar202:/home/project/mcino-Introduction-to-
+Git-and-GitHub$ curl curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1                 
 {
   "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
   "id": 2801734415,
@@ -373,3 +374,4 @@
   "additions": 0,
   "deletions": 0,
   "changed_files": 0
+}
